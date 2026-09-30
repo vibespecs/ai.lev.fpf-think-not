@@ -1,0 +1,2178 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:9c29403b8f231f7ac465a36c2a936d632802179582f12be3239eeb7c9a2a85a3",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1 - Choose the Distinctions and Operations a Notation Must Support",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:168e89e7da8547601c4d7f5fbc7b54b5817e14ae093d8e777f40aff0231c23a4",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:8cdd08e4b42d83f3f8be4c09e0afd0044a9b6d5c4215e175733d4552a8fa1085",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:c9de00897123b032294507444f51d078b6c2176e6af0580b721d1c4f0775a574",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:fce86d2fa03fcab203e1818362be0eb9392b4d880ef5fb20f78804f8c880df68",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:4 - Solution",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#solution"
+    },
+    {
+      "anchor": "choose-an-operation-and-the-conditions-for-performing-it",
+      "content_hash": "sha256:1ed76b25aca2fa44d6e5dc2784123acd9d6ba7164b36a1fd56f225cf3be9a66b",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:4.1 - Choose an operation and the conditions for performing it",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#choose-an-operation-and-the-conditions-for-performing-it"
+    },
+    {
+      "anchor": "find-cases-whose-difference-changes-the-work",
+      "content_hash": "sha256:5e5eede5479af08300a3aec4e98ce6a69c1b0ff2c5fe264fe550e4f5dcb06b8e",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:4.2 - Find cases whose difference changes the work",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#find-cases-whose-difference-changes-the-work"
+    },
+    {
+      "anchor": "locate-the-information-and-operations-behind-the-marks",
+      "content_hash": "sha256:58f8cb248a4551f637b7e49707a862100ee98ec8d5891becd04a3fd666f59756",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:4.3 - Locate the information and operations behind the marks",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#locate-the-information-and-operations-behind-the-marks"
+    },
+    {
+      "anchor": "try-a-design-choice-through-use",
+      "content_hash": "sha256:d6d0fc0b045ff8b65479d26892bc80ba903924b90c322987a264a9c5bf0f2fc8",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:4.4 - Try a design choice through use",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#try-a-design-choice-through-use"
+    },
+    {
+      "anchor": "compare-the-work-enabled-and-the-work-displaced",
+      "content_hash": "sha256:2f3f6a998fcf51b8a4f0b22ea2a731c6db680c0ee20d3ad80be90e0b37b91097",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:4.5 - Compare the work enabled and the work displaced",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#compare-the-work-enabled-and-the-work-displaced"
+    },
+    {
+      "anchor": "retain-the-decision-at-the-scale-needed-for-the-next",
+      "content_hash": "sha256:008823a9d1ea4b51fe6592c38a7cc66bc8f1579e29ed98e6e7148e86a35e5b80",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:4.6 - Retain the decision at the scale needed for the next construction",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#retain-the-decision-at-the-scale-needed-for-the-next"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:722ea437b34c146c90949324fad100ed0ab15ac6e82578008f5e3a2f99bfca3b",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:7 - Conformance Checklist",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:a0b63d429769c07024f027ead239cfb54feef76b7d3f4bdf5b91725fc3c07401",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:9 - Consequences",
+      "line": 110,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:59afa7cac045cbd4ae4aa7bf45be6afa36b516fed8e04d55e19b03f163cb434c",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "NOT.1:12 - Relations",
+      "line": 116,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:f944418e90764537aa9c4421a99755b3555150cd8495cc880f170dc7892e1b1b",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "Dependencies",
+      "line": 131,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:21cf112c23610e9798ccd191716711a4a7cb5771ec383acb2104f310292f7e5e",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/C-2-8#root for recovered structure; spec://ai.lev/fpf-spec/contract/A-6-3-RT-OE#root for an expression under available rules; spec://ai.lev/fpf-think-not/contract/NOT-2#root/.3/.7 for construction and repair. @status:spec/done",
+      "line": 133,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:eb74985f0d349f39aa91594d2088d62c945271bb9b1db93ae3f0f5448e1d8226",
+      "doc_path": "contract/NOT-1",
+      "file": "vibevm/vibespecs/contract/NOT-1.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-not/contract/NOT-2#root, spec://ai.lev/fpf-think-not/contract/NOT-7#root, spec://ai.lev/fpf-think-not/contract/NOT-8#root @status:spec/done",
+      "line": 134,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-1#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:4f7b65a3e1012c2780fe396ef95720c52d295b6143c2e41aef981af43ea6458d",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2 - Define Expression Rules for Recoverable Binding and Composition",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:1f434d6c1e1d004ac686aef3391c8e7b2547435b9817944bb6a0aa3d42671d83",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:345e6ea0690645d7ae3b9f7eb8928cd2aed94146eac0c527cfdabccb0ddf5cb5",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:2bdfda20340aa2dd7489e3867c05e405467364ec0e57105e1bd7f9c9bf7682a4",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:e7ef90b20c91ea8f6359808704f482f3dd812745db8e9cbba759726c31ccd5ea",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:4 - Solution",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#solution"
+    },
+    {
+      "anchor": "identify-the-expression-constructors-and-their-operands",
+      "content_hash": "sha256:1d8dea68ddb3ec4c129b138d3bae8d80bd6cb51f32e938a4b8141f942f28883c",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:4.1 - Identify the expression constructors and their operands",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#identify-the-expression-constructors-and-their-operands"
+    },
+    {
+      "anchor": "make-the-composition-structure-recoverable",
+      "content_hash": "sha256:19fbc0651696eec258791b4396ba0eb3647d763887a2f17f53779cdcae699703",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:4.2 - Make the composition structure recoverable",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#make-the-composition-structure-recoverable"
+    },
+    {
+      "anchor": "define-which-declaration-or-external-value-a-reference-uses",
+      "content_hash": "sha256:1e1d19ce4aeceb07aff153eef12c5ecb55d47ee4567065e703b2c290b382a771",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:4.3 - Define which declaration or external value a reference uses",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#define-which-declaration-or-external-value-a-reference-uses"
+    },
+    {
+      "anchor": "define-the-permitted-connections-between-components",
+      "content_hash": "sha256:c18031b7be9ea51631503722e84c96232df809bf4dea3e9853ff321cba3c0bb8",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:4.4 - Define the permitted connections between components",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#define-the-permitted-connections-between-components"
+    },
+    {
+      "anchor": "construct-and-read-the-cases-that-challenge-the-rule",
+      "content_hash": "sha256:f9f95032eff8c8f7a04cfd19681ba790be03f68ec03cd562aac8545df0461054",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:4.5 - Construct and read the cases that challenge the rule",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#construct-and-read-the-cases-that-challenge-the-rule"
+    },
+    {
+      "anchor": "retain-usable-conventions-and-controlled-abbreviations",
+      "content_hash": "sha256:33cec5e6f6453bc14780c73f9bc68450e0ff37998b2d83b3f0dfcd68214f5615",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:4.6 - Retain usable conventions and controlled abbreviations",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#retain-usable-conventions-and-controlled-abbreviations"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:73b372255a2d96b68f21cc92af378360e8d829c26d48ca7fdce09d2d834b67cd",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:7 - Conformance Checklist",
+      "line": 95,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:876132581724a25145a8d4348d7690ede5dd28879bf5a9a2b14bb74820c4fb8d",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:9 - Consequences",
+      "line": 106,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:0219cc64cd758598303240c829c8b4edeee12c1786af67109a5f3055ec1eb92e",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "NOT.2:12 - Relations",
+      "line": 112,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:8e94ede0002c98138947e38940bdbd2d6804109b64a5ac0c842c6a50e759058a",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "Dependencies",
+      "line": 127,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:d610dbb1440e3d5155742d3e6916c43e95281fd0ec3e65db05fb923c913bf788",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-not/contract/NOT-1#root for the operation; spec://ai.lev/fpf-spec/contract/A-6-3-RT#root for relation and expression distinctions; spec://ai.lev/fpf-think-not/contract/NOT-3#root/.4 and spec://ai.lev/fpf-think-cmp/contract/CMP-12#root for interpretation and transformation. @status:spec/done",
+      "line": 129,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:356adaa7e1c9ed481e9b1d3ef32d3f26bfa56391dab9f9cccdbf8c0579abea7b",
+      "doc_path": "contract/NOT-2",
+      "file": "vibevm/vibespecs/contract/NOT-2.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-not/contract/NOT-1#root, spec://ai.lev/fpf-think-not/contract/NOT-3#root, spec://ai.lev/fpf-think-not/contract/NOT-4#root @status:spec/done",
+      "line": 130,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-2#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:cc0a8bc1948fb065e33e96d428d4a44d0947e5b4178f6a363a66e598ad68acc0",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3 - Give Expressions an Operative Interpretation",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:982d8e450053cb78c07a2b76e42165245c1b9ad3fdb8fe86a6678c9ed295ea51",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:534549b9c71c27e90b8c3cfc725fa9e4e5d321a942ac71ff06b66c007151d752",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:d1f56309d987b4b594c284047b50a5c2c7ed67b0163a1cffda2cce29c13f2986",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:f5d6be3ea7e921a9ce4a20c44ebbac34c7f4c44eca0746bfe59442155c2ac656",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:4 - Solution",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#solution"
+    },
+    {
+      "anchor": "choose-what-the-reading-must-produce",
+      "content_hash": "sha256:eff328735b6a3d948dc15bbec58f80f78c9c25c6cbcaf3df3eb57ef9c0799e00",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:4.1 - Choose what the reading must produce",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#choose-what-the-reading-must-produce"
+    },
+    {
+      "anchor": "interpret-components-composition-and-context",
+      "content_hash": "sha256:7ba72f3325f4592f7e26592cbcd8fb88ae00414c94f47668fe5647b4efa4fd59",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:4.2 - Interpret components, composition and context",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#interpret-components-composition-and-context"
+    },
+    {
+      "anchor": "construct-the-reading-operations",
+      "content_hash": "sha256:3213765489236626951981f8abecf6a75a4e52cd7040f48683e504ea96db0844",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:4.3 - Construct the reading operations",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#construct-the-reading-operations"
+    },
+    {
+      "anchor": "perform-the-reading-and-locate-where-it-depends-on-additional",
+      "content_hash": "sha256:d8e6190258720a97005213dc4f42b679a8e06a907be9420315fcd676ef36a4a7",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:4.4 - Perform the reading and locate where it depends on additional knowledge",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#perform-the-reading-and-locate-where-it-depends-on-additional"
+    },
+    {
+      "anchor": "change-one-condition-that-matters-to-the-interpretation",
+      "content_hash": "sha256:b0d19bd64e65a17bda0e936aab3ace0821b37124dd8f334c3fd12bd11806bc41",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:4.5 - Change one condition that matters to the interpretation",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#change-one-condition-that-matters-to-the-interpretation"
+    },
+    {
+      "anchor": "keep-the-operative-reading-available-to-its-users",
+      "content_hash": "sha256:3803883a9342188aaf175a9abd059428cb8538f751e60b8fd9c9afc43d027898",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:4.6 - Keep the operative reading available to its users",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#keep-the-operative-reading-available-to-its-users"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:c3d52e562ac1617d9551c3d0e046b039854957693735a93b674b9659266fbec8",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:7 - Conformance Checklist",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:002eeb5f387f0384e584e5e6a4bf7293d380301b57c188823cafc9b20fb39245",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:9 - Consequences",
+      "line": 100,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:7c6feecb49157d352db7362f289ac646d355187eda48ab8c3f746613de37dac8",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "NOT.3:12 - Relations",
+      "line": 106,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:fd65ed562b8504def367f68b71eccdde80ac3c40bc27af8aefd9aba23259fff3",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "Dependencies",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ffeedae944a2398a9e446963c25839d8d7b55c4fd46ac5ab5ab156b7398d5194",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-not/contract/NOT-2#root for formed expressions; spec://ai.lev/fpf-think-math/contract/MATH-18#root for mathematical interpretation; spec://ai.lev/fpf-think-cmp/contract/CMP-12#root when an effective interpreter is needed. @status:spec/done",
+      "line": 123,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:378548ed5a8d5c839415095fb7c919a324064d7123c94b9f5c243aa1b5576507",
+      "doc_path": "contract/NOT-3",
+      "file": "vibevm/vibespecs/contract/NOT-3.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-not/contract/NOT-2#root, spec://ai.lev/fpf-think-not/contract/NOT-5#root @status:spec/done",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-3#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:e1b511ed1e5f8d45992d66cee8de932b551b3ff118f83a0fa00c409a4969a96a",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4 - Construct Transformations of Expressions That Preserve Their Use",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:4a327f3fa8298886bd1214a7f79a6fc925b39fd560813547bed9f1bf8d245c5f",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:3b3d13380a5d5ac40fbd3d43e0659f92235da0e320d56e85ff98aac8c88eb468",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:2 - Problem",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:500105e7102ddc09981ae6b3952be67038d0c89bb01bc7005194e41ded5f0540",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:3 - Forces",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:e68cd955854977f283cb15fb70cf473b7e65f5994137fce4921de9dd5223ac22",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:4 - Solution",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#solution"
+    },
+    {
+      "anchor": "choose-the-operation-and-the-observations-to-preserve",
+      "content_hash": "sha256:1ccd89af66d69e6b87b4043b70ce3a0c0ac2b4c582058bb9fadaec65a3fed211",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:4.1 - Choose the operation and the observations to preserve",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#choose-the-operation-and-the-observations-to-preserve"
+    },
+    {
+      "anchor": "build-a-rule-from-the-structure-causing-the-difficulty",
+      "content_hash": "sha256:9598c66b2929df2e7799f97f346e2a49ba7906499ea02a24e52aadfca2a50e3a",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:4.2 - Build a rule from the structure causing the difficulty",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#build-a-rule-from-the-structure-causing-the-difficulty"
+    },
+    {
+      "anchor": "establish-where-replacement-preserves-the-needed-consequence",
+      "content_hash": "sha256:3de9743d358f8e209790981db20b79a927a2459cedbaa4c8e56df27fb328db3b",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:4.3 - Establish where replacement preserves the needed consequence",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#establish-where-replacement-preserves-the-needed-consequence"
+    },
+    {
+      "anchor": "construct-and-use-the-transformed-expression",
+      "content_hash": "sha256:9994191026186536c6dc6cc5ed21ec941e4531f343fda06c8489d4971f427792",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:4.4 - Construct and use the transformed expression",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#construct-and-use-the-transformed-expression"
+    },
+    {
+      "anchor": "challenge-the-condition-most-likely-to-fail-in-reuse",
+      "content_hash": "sha256:32f09e68f077c6ba0e957127ff3210f7645eea5731586f23a6f7ea168ff4c432",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:4.5 - Challenge the condition most likely to fail in reuse",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#challenge-the-condition-most-likely-to-fail-in-reuse"
+    },
+    {
+      "anchor": "retain-a-useful-rule-or-a-useful-set-of-forms",
+      "content_hash": "sha256:513b8b19d774081cc17a9d5f316350b026a9bc6566d466310ebd1168a4021fae",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:4.6 - Retain a useful rule or a useful set of forms",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#retain-a-useful-rule-or-a-useful-set-of-forms"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:f088e354302b479865e24ee352320f9a25d4c0feb61e095226b90d260a82790c",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:7 - Conformance Checklist",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:4730f1a59d88ac6f45809ce40b6c57c2de86108eff966777541892ed22d26474",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:9 - Consequences",
+      "line": 103,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:d16559b5dc49a75e484f28f6f51f70ec2411991bb35a1321ed5648f5f79e1fc7",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "NOT.4:12 - Relations",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:4cb7749b548f74d377491ef57bb4363b3bed4c2be965df0288b5ddb463d0b15a",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "Dependencies",
+      "line": 122,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:b988a46385d169a385faa1e03ca4c2d089388723f5cd6dcac756e84e0cb81604",
+      "doc_path": "contract/NOT-4",
+      "file": "vibevm/vibespecs/contract/NOT-4.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-not/contract/NOT-2#root/.3 for binding and meaning; spec://ai.lev/fpf-think-math/contract/MATH-17#root/.18 for composition and interpretation; spec://ai.lev/fpf-think-cmp/contract/CMP-12#root for executable transformation. @status:spec/done",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-4#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6eea11ed76f1a7c0b54a2f080efa26f4660c77bcfa5ac5a395a7ee14bed1ca27",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5 - Translate between Notations while Tracking Lost Distinctions",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:2433b68746364dcaac3d8ed73fdd9760beed71204f4e262b08babcacfbe3ace9",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:0be85595d08a308fe5df618826c0a614b4f7910c9f7a9e8a3f1c9cd322934b4e",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:bde116fc4a2cbe17fd818251d839174177db2d56c021e14a7f3724bd9a818c8d",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:a8013b148b0579cb8c39dc4b410fdfd4297c1330a8de244dd24923451b28e95a",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:4 - Solution",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#solution"
+    },
+    {
+      "anchor": "choose-what-must-remain-possible",
+      "content_hash": "sha256:46d1815e47e4951a300075dc401a0868ae88c1fb85acc63d2acb8a3471807cc3",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:4.1 - Choose what must remain possible",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#choose-what-must-remain-possible"
+    },
+    {
+      "anchor": "construct-target-expressions-from-interpreted-source-structure",
+      "content_hash": "sha256:47b52aff3211a4ef69a5bcd92dc164da0e81bcfd2040053dfd44019f844a7eca",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:4.2 - Construct target expressions from interpreted source structure",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#construct-target-expressions-from-interpreted-source-structure"
+    },
+    {
+      "anchor": "perform-the-receiving-operation-and-recover-its-answer",
+      "content_hash": "sha256:54c8d5c54402cf73695da600df8317031f6ed136c1c7f0c8fb0df89682d5f577",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:4.3 - Perform the receiving operation and recover its answer",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#perform-the-receiving-operation-and-recover-its-answer"
+    },
+    {
+      "anchor": "expose-distinctions-the-target-collapses",
+      "content_hash": "sha256:1f1b9755348d4e8da1b847821299729910ac837cf0a12fb85fcdc5975cac948b",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:4.4 - Expose distinctions the target collapses",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#expose-distinctions-the-target-collapses"
+    },
+    {
+      "anchor": "repair-the-loss-needed-by-the-work",
+      "content_hash": "sha256:c687b6964cc5d62e65fb967ae462972761f6cddbe98532d41237bef3f15e2214",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:4.5 - Repair the loss needed by the work",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#repair-the-loss-needed-by-the-work"
+    },
+    {
+      "anchor": "establish-the-return-that-the-work-requires",
+      "content_hash": "sha256:0d40cc089d8f373111fa4f73e1ef9ce4d71f2081d8e3af9b22a64e857f650466",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:4.6 - Establish the return that the work requires",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#establish-the-return-that-the-work-requires"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:99d542b4639a103b4b01c5ccbbd501f58d0841bf808001ece7d2c5ff5d9f8155",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:7 - Conformance Checklist",
+      "line": 105,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:3a339f68abe0413953d9cf470481065eb50932e9341144e63b420ea51d42234a",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:9 - Consequences",
+      "line": 117,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:f913785467fc4aaad0e3427762ead53a5b894ccc9e32bb13c27d9729d5ac2113",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "NOT.5:12 - Relations",
+      "line": 123,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:164b4f883d5678ab899b965cc9a6fa83f95ec95623c7e39a2abff62a1c442855",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "Dependencies",
+      "line": 137,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:27d0e8f90b61f60a0648eb3e1d6c78acc81fee5bcb152b54659b08155bc405df",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-not/contract/NOT-3#root for the interpretation; spec://ai.lev/fpf-think-math/contract/MATH-2#root/.7/.18 for identification and preserved relations; spec://ai.lev/fpf-think-not/contract/NOT-6#root for continued joint use. @status:spec/done",
+      "line": 139,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:7a17e550af02cedc0b45231b59f32172efe9d6c2479fb160cacf2aed5c4196f7",
+      "doc_path": "contract/NOT-5",
+      "file": "vibevm/vibespecs/contract/NOT-5.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-not/contract/NOT-6#root @status:spec/done",
+      "line": 140,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-5#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:afc1eca06b678e561f96d2dc8c8c6effd89b359822f3a2d90a8ea68fa17661e5",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6 - Coordinate Complementary Representations through Shared References",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:df971a317e1c1c13ed8c757fc11c959e420afa7111b09e4851653b9b6aec933b",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:254aa44c422ff3b58186ae00c44fd912c8926030621bf9a5c6c49779f69304ce",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:6dfae5f5f220322912360cc2e91fc2e82f135b3cce7eec8f1a24c4923fc13a83",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:b6dbd6b5f9279f6c4acd165a08603499334b958d19b68c4d2051444b6f576ff7",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:4 - Solution",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#solution"
+    },
+    {
+      "anchor": "select-representations-for-the-operations-they-support",
+      "content_hash": "sha256:66d02a0499b02558d9882291108e4770de7740e517cda0e67863386e7c284e11",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:4.1 - Select representations for the operations they support",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#select-representations-for-the-operations-they-support"
+    },
+    {
+      "anchor": "recover-what-each-sign-refers-to",
+      "content_hash": "sha256:e81bacf675a6ace47b4847c4dbaa335926a39b836677d17d89e4c21d72683858",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:4.2 - Recover what each sign refers to",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#recover-what-each-sign-refers-to"
+    },
+    {
+      "anchor": "construct-the-relations-that-let-results-be-combined",
+      "content_hash": "sha256:150f83ee8aa39be5ec5f58527cc0852bfd64dfff05aec52f782f2d8fb2a4f51a",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:4.3 - Construct the relations that let results be combined",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#construct-the-relations-that-let-results-be-combined"
+    },
+    {
+      "anchor": "perform-the-joined-operation",
+      "content_hash": "sha256:7aa23067524ba5d8e7f86be64b19ac3205ae4e0d1eb71ce6fe2c4b6e52566cc2",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:4.4 - Perform the joined operation",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#perform-the-joined-operation"
+    },
+    {
+      "anchor": "propagate-the-intended-change-and-expose-conflicts",
+      "content_hash": "sha256:9f6a92528117c7bc413eacdef37fedff5a200913588a7fc6e58e11a506a0ecac",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:4.5 - Propagate the intended change and expose conflicts",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#propagate-the-intended-change-and-expose-conflicts"
+    },
+    {
+      "anchor": "retain-the-combination-at-the-needed-effort",
+      "content_hash": "sha256:48c57482542de2d799a56428de2d04a97c7fb7eecd8e003e8cdebdce9bd905c0",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:4.6 - Retain the combination at the needed effort",
+      "line": 95,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#retain-the-combination-at-the-needed-effort"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:5ca1ed82f941e9ccdc99dd3966e8a81b8398d4f474d3dc3e3713695be52295e9",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:7 - Conformance Checklist",
+      "line": 103,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:ec468d5262a1666a454ea7bfe9bed666f78381fe022bc6f7fee691d16cf3319a",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:9 - Consequences",
+      "line": 115,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:ec353b99ea13998505c953c8cc11ee1b2e422f837fcd3d6194b079a86b44dc43",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "NOT.6:12 - Relations",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:28722a948f76ef6dac8a6ef7e4e2e64055dc3be1953471341f6942758b53067f",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "Dependencies",
+      "line": 134,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:2e337fcbd3209f42a44af942f012be2d5f18b93d7c73e25851e195d9f7096a7e",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-not/contract/NOT-5#root for translation limits; spec://ai.lev/fpf-think-math/contract/MATH-18#root and spec://ai.lev/fpf-spec/contract/C-29#root for correspondence; spec://ai.lev/fpf-eng-me/contract/ME-9#root when representations describe a working method. @status:spec/done",
+      "line": 136,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:e4d09b0b863e81812615559abdb268b8e818dbd64f82085df12b6cfe5568d326",
+      "doc_path": "contract/NOT-6",
+      "file": "vibevm/vibespecs/contract/NOT-6.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-not/contract/NOT-5#root @status:spec/done",
+      "line": 137,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-6#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:3d50d4880d20f036633eda5faf6d127a9b32fec7cdbc1de593a70d56ed138fef",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7 - Redesign a Notation around the Reader's Difficult Operations",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:e56898df95ad66c515b9002df126e1a0a6d659be65adc61d77b9a12076e82ed2",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:15ac22578b1393984df1903da049bf46267a9e5250eeb7be7e81581d43459022",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:cd0992814d37afeaf241b371657e9f51311f11ffde01292b12b8e347017a3115",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:7241ffc03282fad7f9f69a9530785578f389f0607c06b674d77746f7f4be8319",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:4 - Solution",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#solution"
+    },
+    {
+      "anchor": "locate-the-operation-and-its-failure",
+      "content_hash": "sha256:4ba58485cb971769de4ce34537df9f49eecf0681bdba8de5e3b533caadb98bc4",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:4.1 - Locate the operation and its failure",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#locate-the-operation-and-its-failure"
+    },
+    {
+      "anchor": "explain-which-work-the-current-form-imposes",
+      "content_hash": "sha256:b98900147566e85eccc5e8bc7858c8852609c7d75e47cc3cf26e22fd7226c355",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:4.2 - Explain which work the current form imposes",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#explain-which-work-the-current-form-imposes"
+    },
+    {
+      "anchor": "construct-a-change-at-the-source-of-the-burden",
+      "content_hash": "sha256:e47ab0e65ab44725e586180d2d475563961accb17d3309343df87be50c44fc5d",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:4.3 - Construct a change at the source of the burden",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#construct-a-change-at-the-source-of-the-burden"
+    },
+    {
+      "anchor": "preserve-what-the-work-needs-from-the-expression",
+      "content_hash": "sha256:9cd5b643351753d95a6396bb6c20ac06a276df76b1032c4cc46407c9d8aba532",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:4.4 - Preserve what the work needs from the expression",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#preserve-what-the-work-needs-from-the-expression"
+    },
+    {
+      "anchor": "compare-the-same-operation-and-the-burden-it-moves",
+      "content_hash": "sha256:178e814956f628e86df9158180f50adde0b6c8a114b9f6e7f6e6730c35f5ed7d",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:4.5 - Compare the same operation and the burden it moves",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#compare-the-same-operation-and-the-burden-it-moves"
+    },
+    {
+      "anchor": "choose-the-repair-at-the-needed-scale",
+      "content_hash": "sha256:dbc76f7e095ad1dc3d2963d27ecbc2768eb44c03e5e9f5e20d99447adf557970",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:4.6 - Choose the repair at the needed scale",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#choose-the-repair-at-the-needed-scale"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:c1dc7be8d47baea83cb0967d0f770cbb31b664754396efad361a34d6ba621d78",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:7 - Conformance Checklist",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:8a907554584baf8f36ba2effec0b646f1a34054ed0c78dbb11deeef3226d8d2e",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:9 - Consequences",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:dc3d85fa2ec736886319d4d40b6b6a9b4cf9184305e9918adb9f421fa9098b48",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "NOT.7:12 - Relations",
+      "line": 127,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:26d48273af2cf948880997f28f077481e4ae57b145aa3723575922a4332f17ae",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "Dependencies",
+      "line": 141,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:15f0f89cc7ac8c9e8d08b01ecf903ee1858891555541a57a0e3df0515fcf3300",
+      "doc_path": "contract/NOT-7",
+      "file": "vibevm/vibespecs/contract/NOT-7.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-not/contract/NOT-1#root–.6 for requirements and operative rules; spec://ai.lev/fpf-spec/contract/C-2-8#root, EXD and HCD for recovery, explanation and capability questions. @status:spec/done",
+      "line": 143,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-7#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b23edd2085ae3d0c4999457dd37ea50078179d1c165ed67dde63be3f7050c6c1",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8 - Construct Temporal or Embodied Notation with a Reading Procedure",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:2d8ea10d64e94ba29681e2d15213f355404ada3064304a38d46351ed1a96e30f",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:3791c507eea10a8cd6c3fe8c7f818b6050a30fcdcbe4928f8f1eff1161f578e4",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:dc999e64f8a336a81bf3ffd4c78fd404b5816d719ac0fa534030e27f79f81692",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:5e4f8e93822ccd4721ac03851394fef20feed31ef9f6f132e296b00e5aeda21e",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:4 - Solution",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#solution"
+    },
+    {
+      "anchor": "select-what-is-expressed-and-what-the-reader-should-do",
+      "content_hash": "sha256:846b88095ab9556a24e38887b6017b7e808ed2af30068d8d9d0dbaedd14b29b7",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:4.1 - Select what is expressed and what the reader should do",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#select-what-is-expressed-and-what-the-reader-should-do"
+    },
+    {
+      "anchor": "establish-the-references-that-locate-an-occurrence",
+      "content_hash": "sha256:e74c35dc0664f90fc648f966cda6145d1505bfb10548acc01f8dcd4f72a01a58",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:4.2 - Establish the references that locate an occurrence",
+      "line": 55,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#establish-the-references-that-locate-an-occurrence"
+    },
+    {
+      "anchor": "segment-and-encode-the-needed-relations",
+      "content_hash": "sha256:2e62a74c07a64eff5bd2931627f9c247c1f43cb8302f0b8c4748218dd1bfc9f8",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:4.3 - Segment and encode the needed relations",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#segment-and-encode-the-needed-relations"
+    },
+    {
+      "anchor": "construct-the-reader-s-route-through-the-expression",
+      "content_hash": "sha256:7b77d9c3237dcc8af47554b8d30b43a2f357a4b4740696eaa6274b4ed4247a33",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:4.4 - Construct the reader's route through the expression",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#construct-the-reader-s-route-through-the-expression"
+    },
+    {
+      "anchor": "challenge-the-relation-with-a-meaningful-change",
+      "content_hash": "sha256:427c60c6f232250700679d3410413cc937b4271d232398a64b7a6c4189da8e23",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:4.5 - Challenge the relation with a meaningful change",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#challenge-the-relation-with-a-meaningful-change"
+    },
+    {
+      "anchor": "retain-the-expression-with-its-operative-convention",
+      "content_hash": "sha256:ce5325645f907401b6a2fa1611d2ed6bc963658cb99a7b2a969d515efe67f931",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:4.6 - Retain the expression with its operative convention",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#retain-the-expression-with-its-operative-convention"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:a7bcdc4f220fa3eaec7e83c82b92282239c72ee62dc6b244129606fce25591d3",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:7 - Conformance Checklist",
+      "line": 105,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:a8759316f208b37e8e056530c8c64fd80a0d204809739db04e2393364b7c4bb1",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:9 - Consequences",
+      "line": 117,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:7d0cd3a7939ac746518cebc60b37149d59f46afa74e2bb3df8618d18b1969179",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "NOT.8:12 - Relations",
+      "line": 123,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:80ec5bd1b06affcad31f4bc2c66e584898702ff86237eae78c9b5a3dc9cdb1cc",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "Dependencies",
+      "line": 137,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:9d618524317fa42b0230a520eed2599467fb734c0af8f7e92c581d38ed6cf9ae",
+      "doc_path": "contract/NOT-8",
+      "file": "vibevm/vibespecs/contract/NOT-8.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-not/contract/NOT-1#root–.7 for design and interpretation; spec://ai.lev/fpf-think-cmp/contract/CMP-12#root for an effective interpreter; spec://ai.lev/fpf-spec/contract/B-5-MPC#root for physical realization. @status:spec/done",
+      "line": 139,
+      "uri": "spec://ai.lev/fpf-think-not/contract/NOT-8#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:3be24b73a85eff2a74cacf312bcd9f06d05f0e1b4cba1ce26eb022c28b07827d",
+      "doc_path": "pub/ABOUT",
+      "file": "vibevm/vibespecs/pub/ABOUT.md",
+      "heading": "Notational Engineering DPF",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/pub/ABOUT#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:9ed066cbb49bb4f7f080a25883738d2642c64202c147f0df405bde7ca2b5db7c",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "Notational Engineering - Preface",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#root"
+    },
+    {
+      "anchor": "preface-1",
+      "content_hash": "sha256:a396f267cc3349e030a78ab90ed0f996cdf22f265e6d2c3ce26c8fef7d973ff7",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:1 - Problem frame and the work of designing a notation",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-1"
+    },
+    {
+      "anchor": "preface-2",
+      "content_hash": "sha256:a0963b05009f6f1560616675c1864e6e0dd776dfd945cddf98ddfa041da29400",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:2 - Forces that shape the choice",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-2"
+    },
+    {
+      "anchor": "preface-3",
+      "content_hash": "sha256:dd88741b39b0855c2d8ea72d37cff5c73aff4381b5663f715b419edaec4df258",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:3 - The methods and their connections",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-3"
+    },
+    {
+      "anchor": "not-preface-3-1-design-what-can-be-expressed-and-done",
+      "content_hash": "sha256:d599ea3b1dbf04760550902058efc07c55735c149cdd89aca54e51fe8a59b107",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:3.1 - Design what can be expressed and done",
+      "line": 32,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#not-preface-3-1-design-what-can-be-expressed-and-done"
+    },
+    {
+      "anchor": "not-preface-3-2-translate-combine-and-improve-notations",
+      "content_hash": "sha256:69f972f918e5d791d58003b1eacc32177efcec61afc33751267281da214bbee9",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:3.2 - Translate, combine and improve notations",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#not-preface-3-2-translate-combine-and-improve-notations"
+    },
+    {
+      "anchor": "not-preface-3-3-constituent-actions-in-ongoing-work",
+      "content_hash": "sha256:1679c85b05587311256383267ed324a61880165adaced1de6f7fc4fcc541bd9e",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:3.3 - Constituent actions in ongoing work",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#not-preface-3-3-constituent-actions-in-ongoing-work"
+    },
+    {
+      "anchor": "preface-4",
+      "content_hash": "sha256:140437cdd106d9bb8b01166b263d013dbcfec6bd55bb7df93556495ab2ba54f9",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:4 - Worked connection - A formula, graph and table must change together",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-4"
+    },
+    {
+      "anchor": "not-preface-4-1-construct-the-expressions-and-their",
+      "content_hash": "sha256:dec201d8f1aaf883094333ba63bf47aefc45bfeaa601d958e8964102beb41e06",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:4.1 - Construct the expressions and their interpretation",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#not-preface-4-1-construct-the-expressions-and-their"
+    },
+    {
+      "anchor": "not-preface-4-2-translate-only-as-far-as-the-receiving-question",
+      "content_hash": "sha256:7008ba605d6d60a7b23019d8aa712a24ad6d9f2227dba2ae9776583f81e3fb68",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:4.2 - Translate only as far as the receiving question allows",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#not-preface-4-2-translate-only-as-far-as-the-receiving-question"
+    },
+    {
+      "anchor": "not-preface-4-3-interpret-an-edit-before-propagating-it",
+      "content_hash": "sha256:f2502a1bc868aca0c077b8a42f8a05d2f7c6fe21eb1df316897d6e0ffc7a73d3",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:4.3 - Interpret an edit before propagating it",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#not-preface-4-3-interpret-an-edit-before-propagating-it"
+    },
+    {
+      "anchor": "not-preface-4-4-change-the-operation-and-revisit-the-affected",
+      "content_hash": "sha256:172df6ff6ae7a6bfb29d69ff8613e7493d1a22d66ee14dbb0367795f28f81ed6",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:4.4 - Change the operation and revisit the affected construction",
+      "line": 78,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#not-preface-4-4-change-the-operation-and-revisit-the-affected"
+    },
+    {
+      "anchor": "preface-5",
+      "content_hash": "sha256:8dc674b8b342d6a9f473733e410a878066e66d9117788da85d10f4bb716d54fb",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:5 - Conditions of use, checks and recurring failures",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-5"
+    },
+    {
+      "anchor": "preface-6",
+      "content_hash": "sha256:20d2138da1a071cc27732c0980d85715e12ebba690a4a053c196d51945234f43",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:6 - Consequences and Architectural Rationale",
+      "line": 100,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-6"
+    },
+    {
+      "anchor": "preface-7",
+      "content_hash": "sha256:ae1768cbfc1e96d84659a2faa4ba896c96c9e82717cc4325abf5c865ac92cf77",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:7 - Shared sources, alternatives and refresh",
+      "line": 112,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-7"
+    },
+    {
+      "anchor": "preface-8",
+      "content_hash": "sha256:be9e3658cab4f9643456717c5d9c0b6052cb12df93c828bd4ef0c3515554a132",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:8 - Relations to the rest of the Suite",
+      "line": 127,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-8"
+    },
+    {
+      "anchor": "preface-end",
+      "content_hash": "sha256:c94fef5178dc6018830b3681c04a3e95774a5ce77339c8662ad9e11a63cc0e20",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "NOT.Preface:End",
+      "line": 137,
+      "uri": "spec://ai.lev/fpf-think-not/pub/PREFACE#preface-end"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8d4e5b79d5f60fca5660634b3a273667a8099ade9198c9547b0a5af101e72a55",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Notational Engineering - Readme",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/pub/README#root"
+    },
+    {
+      "anchor": "practical-entries",
+      "content_hash": "sha256:73dd529ee1b346d19aa7339adb1c6f88131c20693d362b9c016272b15f555e47",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Practical entries",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-think-not/pub/README#practical-entries"
+    },
+    {
+      "anchor": "nt-change-together-carry-a-changed-request-through-several",
+      "content_hash": "sha256:0fef7ffec56b6b0c67435dc08aa1d9b3eb0b06f30728e3284263bb0e7495e382",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "NT-CHANGE-TOGETHER - Carry a changed request through several representations",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-think-not/pub/README#nt-change-together-carry-a-changed-request-through-several"
+    },
+    {
+      "anchor": "worked-connection-for-nt-change-together",
+      "content_hash": "sha256:38e8e094f92300aec296821a2488ee8e62311d755fd57d00050246050f64ed60",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Worked connection for NT-CHANGE-TOGETHER",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-think-not/pub/README#worked-connection-for-nt-change-together"
+    },
+    {
+      "anchor": "nt-carry-a-sequence-keep-a-sequence-usable-when-its-reader-or",
+      "content_hash": "sha256:722457c96d9a4e7ea27dbab293a0b7287997d22ecfc556aced8d47ea9f5040a1",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "NT-CARRY-A-SEQUENCE - Keep a sequence usable when its reader or reference frame changes",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-not/pub/README#nt-carry-a-sequence-keep-a-sequence-usable-when-its-reader-or"
+    },
+    {
+      "anchor": "worked-connection-for-nt-carry-a-sequence",
+      "content_hash": "sha256:c1c3237c0a0ca0dcd3c70e436197d435179e7953cbcdaf823281fc9b052f975d",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Worked connection for NT-CARRY-A-SEQUENCE",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-think-not/pub/README#worked-connection-for-nt-carry-a-sequence"
+    },
+    {
+      "anchor": "continue-with-the-contribution-the-work-needs",
+      "content_hash": "sha256:0c75426c65e0902aecf5ad7a94f45766545291677de7af4df2c019a87be4f962",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Continue with the contribution the work needs",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-think-not/pub/README#continue-with-the-contribution-the-work-needs"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:65131b8e625e7c91e2ecd733b1eacc529d234873d17bd3db4e3616e40003b906",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Table of Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/pub/TOC#root"
+    },
+    {
+      "anchor": "public-units",
+      "content_hash": "sha256:48808f1d1c9bceb9a55e4703a6df4a5bb0920b4f1cd794a00930cda0da58eab5",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Public units",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/pub/TOC#public-units"
+    },
+    {
+      "anchor": "part-a-design-what-can-be-expressed-and-done",
+      "content_hash": "sha256:f279580aa1bd72b2193464d03f2728e23a48b015a7cb5c2082015fe80dedb50a",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part A - Design what can be expressed and done",
+      "line": 14,
+      "uri": "spec://ai.lev/fpf-think-not/pub/TOC#part-a-design-what-can-be-expressed-and-done"
+    },
+    {
+      "anchor": "part-b-translate-combine-and-improve-notations",
+      "content_hash": "sha256:603fcee75c932e813c63e0e6055b56caec373aeadf75e3021ba796501692d053",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part B - Translate, combine and improve notations",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-not/pub/TOC#part-b-translate-combine-and-improve-notations"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:ce523cec98218ecd3859fed84b1e03abe19bd42008d85e30c99e24f81056eca9",
+      "doc_path": "pub/parts/part-a-design-what-can-be-expressed-and-done",
+      "file": "vibevm/vibespecs/pub/parts/part-a-design-what-can-be-expressed-and-done.md",
+      "heading": "Part A - Design what can be expressed and done",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/pub/parts/part-a-design-what-can-be-expressed-and-done#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:dc3fc6ced2791dfaa67b0381557f706ab553eedfbfdc2baa07d2a0e62d1c93f1",
+      "doc_path": "pub/parts/part-b-translate-combine-and-improve-notations",
+      "file": "vibevm/vibespecs/pub/parts/part-b-translate-combine-and-improve-notations.md",
+      "heading": "Part B - Translate, combine and improve notations",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/pub/parts/part-b-translate-combine-and-improve-notations#root"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:9b9f43fb494c42a1ee08a516c7a039747b20aa305a7e68050cc61d4574ccb259",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1 - Choose the Distinctions and Operations a Notation Must Support: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:5ea001035206a6d6b6810b7f14452d837e45527be93cb277de7a56a8ab296c03",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#archetypal-grounding"
+    },
+    {
+      "anchor": "same-components-different-composition",
+      "content_hash": "sha256:b3d589f8da716e3f69a92328548e807ddf0de96b19ac809d469ae32acae20125",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:5.1 - Same components, different composition",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#same-components-different-composition"
+    },
+    {
+      "anchor": "same-starting-times-different-durations",
+      "content_hash": "sha256:bb3b1ff08ea10b34e10c9be909e91cc0e691aeb2bc6fa14c0cf59941b3123f24",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:5.2 - Same starting times, different durations",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#same-starting-times-different-durations"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:9fce16d2af2bcfad0f1c1e26007f9c0ede3afa232278aeb8a2a886e799b9b29b",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:6 - Bias-Annotation",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:1bdab27109be815459cda616632a0dc3d9e42d860ad05b0f563f61eb105adcc9",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:50dc50b85211ca56063fde132b7168c99cb1cf16125cb7c78b1a92e3f6e26c66",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:10 - Architectural Rationale",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:42c6adc16d58b8985d6df18ae3953284afdb2800bc3755f3eb83772dace42773",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:11 - SoTA-Echoing",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:ab50cd0e890aee15146eaed98a5a70f1e70dd7fdb15d5b0a9a2c8cec91fb324a",
+      "doc_path": "source/NOT-1",
+      "file": "vibevm/vibespecs/source/NOT-1.md",
+      "heading": "NOT.1:End",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-1#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:c63d2a1319dc1b6024ef2ee6bbe2ecb11c58d5fb9ac78b05be4f4d6fc6f2d045",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2 - Define Expression Rules for Recoverable Binding and Composition: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:77b36cc0b35a193a7511636394eeaae6068c2cf22b33db7f757b32dfeceaeea1",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#archetypal-grounding"
+    },
+    {
+      "anchor": "a-sum-with-a-local-index-and-an-external-parameter",
+      "content_hash": "sha256:88de1ba8919534b37fada18ba9fb185186db5acbba00f139b5182f3cd07faf5b",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:5.1 - A sum with a local index and an external parameter",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#a-sum-with-a-local-index-and-an-external-parameter"
+    },
+    {
+      "anchor": "two-ports-of-the-same-type-with-different-roles",
+      "content_hash": "sha256:ddce346df14e1a7d45b59faef04cd400194f9cc78ead37011ea268a203361694",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:5.2 - Two ports of the same type with different roles",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#two-ports-of-the-same-type-with-different-roles"
+    },
+    {
+      "anchor": "scope-in-a-structured-sequence",
+      "content_hash": "sha256:09b83b6332fa2fa10615eadc9e54717e098656c39708aa6434463dff739aa2da",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:5.3 - Scope in a structured sequence",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#scope-in-a-structured-sequence"
+    },
+    {
+      "anchor": "resolve-a-movable-label-at-the-time-of-its-use",
+      "content_hash": "sha256:77e0a1f631aae42ad5f2706d8ada85778e80dcd260f5e50d049d9a1b359c98b5",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:5.4 - Resolve a movable label at the time of its use",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#resolve-a-movable-label-at-the-time-of-its-use"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:ed85935d18b3d8757f866c76eab2d0bc19bb4a3c998d60c664864fb757e36877",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:6 - Bias-Annotation",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:e234210236d4c1bb5dd9fecd64b794940e7251b02229148d74c8fa5fc5cdb95d",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:e08af731f983d1935f351e9f64bfb7913d42c5c52045305657f535696d8f0d0f",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:10 - Architectural Rationale",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:3fe273a6ff5862af539726addd9584b59bf17c7718b6cdf565a546de4f859250",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:11 - SoTA-Echoing",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:090778c5721ed1f9fb9e748133dd2eeec69804f82ffd0d0bc9175824ae1edb28",
+      "doc_path": "source/NOT-2",
+      "file": "vibevm/vibespecs/source/NOT-2.md",
+      "heading": "NOT.2:End",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-2#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:67c652326688ad7391f924bf5c3c7de26f79a7512dda472b112f400eb27e4674",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3 - Give Expressions an Operative Interpretation: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:1da845b25165b974678ee89c33860cb995365bbc6baab8ed30079c7d6a8b5178",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#archetypal-grounding"
+    },
+    {
+      "anchor": "turn-a-condition-diagram-into-a-reading-procedure",
+      "content_hash": "sha256:49a3cfd34da63e5a2a100e78a381e508c5d9d2f0cc59090c613b7e9d66ecdd4c",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:5.1 - Turn a condition diagram into a reading procedure",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#turn-a-condition-diagram-into-a-reading-procedure"
+    },
+    {
+      "anchor": "recover-what-an-interval-notation-means-before-using-it",
+      "content_hash": "sha256:79d1ca575d7d8de92356b6ebc1ff8f5f290dbdd2a1013e5458572246c0f1c3e2",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:5.2 - Recover what an interval notation means before using it",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#recover-what-an-interval-notation-means-before-using-it"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:b70d289c99d8d8ce060af50e9895102269cb21eaa1f312c21f65503240f91bad",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:6 - Bias-Annotation",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:65bd885442aac819bcf4741c11ca08ffb1f7ffea92c387f4b34199cc369280e5",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:cc81a2dd0afeea7249152333f3b8e4cf0347b8dffeb77b773470b2b58bfeea38",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:10 - Architectural Rationale",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:e4369a0b7848123e12f2170c97c7ecb863e474834d664dc6d9e36811ae605e1e",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:11 - SoTA-Echoing",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:9745a52ae7def4584c7dbf35d5e58de663649fbeb2acb8e4d22d8cb265e14896",
+      "doc_path": "source/NOT-3",
+      "file": "vibevm/vibespecs/source/NOT-3.md",
+      "heading": "NOT.3:End",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-3#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:93bb69de35205d46d6cdb33fe8693ddd8ee72b5dda2d08961a892d2654e1fd5a",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4 - Construct Transformations of Expressions That Preserve Their Use: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:5930f4e54629d1c7686bd8c846f56c561eb931ab2094699a903fd72987aa70a9",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#archetypal-grounding"
+    },
+    {
+      "anchor": "name-a-repeated-construction-without-capturing-another-input",
+      "content_hash": "sha256:04f147a0ad3f9178ec628b7a255005d0d8a9445733854505d2febc531dbc1385",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:5.1 - Name a repeated construction without capturing another input",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#name-a-repeated-construction-without-capturing-another-input"
+    },
+    {
+      "anchor": "compress-a-sequence-while-preserving-its-order",
+      "content_hash": "sha256:264a862f74f10c6cd55b52af901ca55cabe6bbbb9fff3dad44169b64ce3b3d44",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:5.2 - Compress a sequence while preserving its order",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#compress-a-sequence-while-preserving-its-order"
+    },
+    {
+      "anchor": "keep-a-cancellation-inside-the-condition-that-permits-it",
+      "content_hash": "sha256:09d7e03ad647029e4b4f6df700695042590344d8422c90977d0746eaf5ba2933",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:5.3 - Keep a cancellation inside the condition that permits it",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#keep-a-cancellation-inside-the-condition-that-permits-it"
+    },
+    {
+      "anchor": "reconnect-an-ordered-pair-after-removing-two-swaps",
+      "content_hash": "sha256:19088f7817da066901995030567fc9f36dd8443f82c189afe1aea96d06e140e7",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:5.4 - Reconnect an ordered pair after removing two swaps",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#reconnect-an-ordered-pair-after-removing-two-swaps"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:be00b52cf8f903a643c49f7a76f4b4773fd201386530aac90a7397a640740440",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:6 - Bias-Annotation",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:2527566c654cbdd47bac89f8ee2212e72453216a96f7050e077ab6a9f16813d0",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:39af83d1d421499f4e9fcc5c3840abf63057ff1ebcdc87835e13965c0ec9fc86",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:10 - Architectural Rationale",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:b9e878bc7d14ac5aa28fcc7233c05c3d92d91324aae01c4a0a208dbcf706e84c",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:11 - SoTA-Echoing",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:8d08384e61eb6f6a30158712444857ee3c71a693aec57a83996bb5f8d0fd6736",
+      "doc_path": "source/NOT-4",
+      "file": "vibevm/vibespecs/source/NOT-4.md",
+      "heading": "NOT.4:End",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-4#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:8cf239a2e5676d475b9793f9a10d2275556ac1f603f225229e18825a7d0076ca",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5 - Translate between Notations while Tracking Lost Distinctions: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:f928eeffaf80241401a3426e43d1f62f8d64a37c5b9aa6895302c9fdf28f98aa",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#archetypal-grounding"
+    },
+    {
+      "anchor": "translate-a-dependency-drawing-without-inventing-geometric",
+      "content_hash": "sha256:773aaf8eb6af19319c27abc98ba2cba2c3b21d6263f475bd43aa24a14a17162b",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:5.1 - Translate a dependency drawing without inventing geometric meaning",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#translate-a-dependency-drawing-without-inventing-geometric"
+    },
+    {
+      "anchor": "keep-a-useful-count-without-pretending-it-preserves-a-rhythm",
+      "content_hash": "sha256:2a2398957cd7d26d3ca4f1ff8607b453e50943923625184edd78846e624ed61b",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:5.2 - Keep a useful count without pretending it preserves a rhythm",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#keep-a-useful-count-without-pretending-it-preserves-a-rhythm"
+    },
+    {
+      "anchor": "choose-what-a-backward-update-preserves",
+      "content_hash": "sha256:9458b373b3b90f5294047bb34b13e5745cc51b1e57fc1aad78d22b3749a3e262",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:5.3 - Choose what a backward update preserves",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#choose-what-a-backward-update-preserves"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:603e642303d372d43cb2f49735ac40f230a705ab1a426d3dc098344e93ebc36d",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:6 - Bias-Annotation",
+      "line": 44,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:2c579edc1f0df732f051d183d649d6123db2790a8d10441a5e7514caa3a37a92",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:4884315f76bede0c851458d2875b107a3fb5ca1fbe5a24b36897ddf70c58e4a2",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:10 - Architectural Rationale",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:f664b8d1b9ad31588fc49901ea6f408924c61882631833fd4f339aa7f9acc0db",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:11 - SoTA-Echoing",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:a7725f43d49039ef96a64e00531779b6d6975a3f7f59aed0a88f8bb958fd4695",
+      "doc_path": "source/NOT-5",
+      "file": "vibevm/vibespecs/source/NOT-5.md",
+      "heading": "NOT.5:End",
+      "line": 82,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-5#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:cd373cb2da0734206c87cb5a1e632dd70829823c3298845493d94e3bb01c3a30",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6 - Coordinate Complementary Representations through Shared References: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:6746f36fda3bbede6e00ec71d73b0f47780cd4fa8399d3bc36cf48987268b496",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#archetypal-grounding"
+    },
+    {
+      "anchor": "combine-a-formula-sample-table-and-plot-without-freezing-old",
+      "content_hash": "sha256:5f6f3954e950a7cad5ca55874907e997b6098ab4ba4103d3c70efdea110fee98",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:5.1 - Combine a formula, sample table and plot without freezing old values",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#combine-a-formula-sample-table-and-plot-without-freezing-old"
+    },
+    {
+      "anchor": "link-a-component-label-an-adopted-dimension-and-a-mesh",
+      "content_hash": "sha256:40bc1b2d9097b4752c6d27a4de590719fbd81a8012d5e7bdc3840da3a0e20130",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:5.2 - Link a component label, an adopted dimension and a mesh",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#link-a-component-label-an-adopted-dimension-and-a-mesh"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:b9afcf193551b43fb6527a2b40cd23b925f52bc75783911cd7c0a1aa6710ebb2",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:6 - Bias-Annotation",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:cc98a72093453a2d3fd3ddd8d0b994337cc2522cc0ca1ed5feca14a01a74ce47",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:5eedf9cb56de3fd1a38216e303b9c8fdc86ed7602c00f47aeea59d51a5aaad09",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:10 - Architectural Rationale",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:435cd5200e2ada05b8d8a07eee7c1b591ceb4ea6940c497bf9650ef15df48f72",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:11 - SoTA-Echoing",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:4e2ec721589451044cde9f457f6c75e2d153a46ae072a10490f669c40946127e",
+      "doc_path": "source/NOT-6",
+      "file": "vibevm/vibespecs/source/NOT-6.md",
+      "heading": "NOT.6:End",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-6#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:38c46c887dbf2b2e03f80cf95df3d48a5fd897cfd9c313d0e03113193330ad34",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7 - Redesign a Notation around the Reader's Difficult Operations: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:4722f7b7e6daeb3802f231460fb07bf1d0c07637a74a50ea3c706933c9327c3c",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#archetypal-grounding"
+    },
+    {
+      "anchor": "turn-prerequisite-lookup-into-downstream-search",
+      "content_hash": "sha256:a84418da737fff509ede5164982e6ae7f60eb15f77a268f8424ec74fb6158e03",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:5.1 - Turn prerequisite lookup into downstream search",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#turn-prerequisite-lookup-into-downstream-search"
+    },
+    {
+      "anchor": "share-a-parameter-while-retaining-a-local-exception",
+      "content_hash": "sha256:6dfce3b12d6c1f9f3448562a9ebe79231eefe1fcb31bac4c7945c255db4e13c2",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:5.2 - Share a parameter while retaining a local exception",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#share-a-parameter-while-retaining-a-local-exception"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:4ba7884e523951ef41e6d5c852834d85a5b39393e1165be67a8e1f417a08d530",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:6 - Bias-Annotation",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:b36fdd7c400571d2313d287264d9b6e5d60ed0220daa3377b74fb44b22ef7aea",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:3442c7b739d3313698b27f52c83e4a7d695b4095a9b8af984015fc4e69de25fb",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:10 - Architectural Rationale",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:ca1b276aac1754243e21de6ed56f22e783b0b21f249dec58b2ce7c922bdbcaea",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:11 - SoTA-Echoing",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:71f29152a65b3b312eb88014e2d33aa9a73ffee0ecb819eba299fe660066fd70",
+      "doc_path": "source/NOT-7",
+      "file": "vibevm/vibespecs/source/NOT-7.md",
+      "heading": "NOT.7:End",
+      "line": 78,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-7#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:b7e037e1099cd25e8bfcc4d0caae6efb6beac232061040800e8b33bd16f897de",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8 - Construct Temporal or Embodied Notation with a Reading Procedure: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:a905335a7cca2db18c222ef59d00a4b448f212a0371668dc5d07fab1888947a6",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#archetypal-grounding"
+    },
+    {
+      "anchor": "recover-a-cue-s-place-in-a-beat",
+      "content_hash": "sha256:065530b680a44581d0a99db3333ecabfbf73f50084a837551e312c451ff6d4ac",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:5.1 - Recover a cue's place in a beat",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#recover-a-cue-s-place-in-a-beat"
+    },
+    {
+      "anchor": "read-a-movement-relative-to-a-changing-body-frame",
+      "content_hash": "sha256:37e26c99814b23c9072b4f3479bffcf0f19b44eb738ff1cde3986965e0f1add6",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:5.2 - Read a movement relative to a changing body frame",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#read-a-movement-relative-to-a-changing-body-frame"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:10e7751127ad959bab2062aa2051461cc588a43dd706d687d5396034e4ef7a9a",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:6 - Bias-Annotation",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:1ec53a0080a2c962911ae006413c4b205a3ea3626e655997d0048b9094190f9e",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:2da7d20bca9359513cbee1d9ba16113e1374a9c811b5047b99657658599014b0",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:10 - Architectural Rationale",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:9db7f28085b15a98821fc77d5496e5e41e3a31b4bbeec67749598051132e808f",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:11 - SoTA-Echoing",
+      "line": 62,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:169b1bec86f9093d3ef8107ab6dedbcd7e131979c1f7a4aa888a4b72b7d71521",
+      "doc_path": "source/NOT-8",
+      "file": "vibevm/vibespecs/source/NOT-8.md",
+      "heading": "NOT.8:End",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-think-not/source/NOT-8#end"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
